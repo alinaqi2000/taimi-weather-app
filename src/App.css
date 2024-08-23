@@ -1,0 +1,24 @@
+/* @keyframes box-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spin:hover {
+  animation: box-spin infinite 1s linear !important;
+}
+.spin2:hover {
+  animation: box-spin infinite 1s reverse !important;
+} */
+
+.degree {
+  font-size: 32px;
+  position: relative;
+  top: -8px;
+  left: 2px;
+}
+.main{
+  transition: all 1s;
+}
